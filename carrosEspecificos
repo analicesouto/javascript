@@ -1,0 +1,5 @@
+const carros = ["Gol", "Civic", "Fusca", "Palio"];
+
+carrosEspecificos = carros.indexOf("Fusca");
+
+console.log(carrosEspecificos);
