@@ -1,5 +1,0 @@
-let palavras = ["Olá", "mundo", "JavaScript", "é", "incrível"];
-
-let palavrasSeparadas = palavras.join();
-
-console.log(palavrasSeparadas);
