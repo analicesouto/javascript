@@ -1,3 +1,3 @@
-# Exercícios com JavaScript
+# Exercises with JavaScript
 
-Este repositório tem como objetivo armazenar exercícios desenvolvidos em JavaScript. 
+This repository contains exercises done in JavaScript.
